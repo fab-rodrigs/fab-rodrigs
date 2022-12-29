@@ -1,4 +1,4 @@
-## Olá, meu nome é Fabrício!👋
+## Olá, meu nome é Fabrício!
 
 <div align="center">
   <a href="https://github.com/fab-rodrigs">
